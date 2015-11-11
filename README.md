@@ -11,12 +11,8 @@ This project provides an HTML5 parser for PHP. It originated as a fork of [Maste
 ##### Features :
 
 - An HTML5 serializer
-- Support for PHP namespaces
-- Composer support
 - Event-based (SAX-like) parser
 - DOM tree builder
-- Interoperability with QueryPath [[in progress](https://github.com/technosophos/querypath/issues/114)]
-- Runs on **PHP** 5.3.0 or newer and **HHVM** 3.2 or newer
 
 -----
 
