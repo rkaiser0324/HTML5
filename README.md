@@ -83,7 +83,7 @@ The following options are supported:
 
 -----
 
-#### The Low-Level API
+##### The Low-Level API
 
 This library provides the following low-level APIs that you can use to
 create more customized HTML5 tools:
