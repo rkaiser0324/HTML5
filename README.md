@@ -213,7 +213,7 @@ $dom->documentElement->namespaceURI; // http://www.example.com
 
 ##### Thanks to...
 
-A huge debt of gratitude to the original authors of [Masterminds/html5-php](https://github.com/Masterminds/html5-php) and [html5lib/html5lib-php](https://github.com/html5lib/html5lib-php). Their names are credited in the code of the classes I borrowed from the [html5lib/html5lib-php](https://github.com/html5lib/html5lib-php) project.
+A huge debt of gratitude to the original authors of [Masterminds/html5-php](https://github.com/Masterminds/html5-php) and [html5lib/html5lib-php](https://github.com/html5lib/html5lib-php). Their names are credited in the code of the classes I borrowed from [Masterminds/html5-php](https://github.com/Masterminds/html5-php).
 
 -----
 ##### Author
