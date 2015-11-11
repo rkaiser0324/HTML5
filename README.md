@@ -51,7 +51,7 @@ The `$dom` created by the parser is a full `DOMDocument` object. And the
 
 -----
 
-##### Options
+##### Options :
 
 It is possible to pass in an array of configuration options when loading
 an HTML5 document.
@@ -83,7 +83,7 @@ The following options are supported:
 
 -----
 
-##### The Low-Level API
+##### The Low-Level API :
 
 This library provides the following low-level APIs that you can use to
 create more customized HTML5 tools:
@@ -98,7 +98,7 @@ syntax checking.
 
 -----
 
-##### Parser Design
+##### Parser Design :
 
 The parser is designed as follows:
 
@@ -113,7 +113,7 @@ events and builds a document tree (`DOMDocument`) based on the events.
 
 -----
 
-##### Serializer Design
+##### Serializer Design :
 
 The serializer takes a data structure (the `DOMDocument`) and transforms
 it into a character representation -- an HTML5 document.
@@ -139,7 +139,7 @@ So tags are serialized according to these rules:
 
 -----
 
-##### Known Issues
+##### Known Issues :
 
 - Namespaces: HTML5 only [supports a selected list of namespaces](http://www.w3.org/TR/html5/infrastructure.html#namespaces)
   and they do not operate in the same way as XML namespaces. A `:` has no special
@@ -175,7 +175,7 @@ So tags are serialized according to these rules:
 
 -----
 
-##### XML Namespaces
+##### XML Namespaces :
 
 To use XML style namespaces you have to configure well the main `HTML5` instance.
 
