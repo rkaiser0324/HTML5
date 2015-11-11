@@ -85,7 +85,9 @@ The following options are supported:
 * `implicit_namespaces` (array): An assoc array of namespaces that should be
   used by the parser. Name is tag prefix, value is NS URI.
 
-## The Low-Level API
+-----
+
+#### The Low-Level API
 
 This library provides the following low-level APIs that you can use to
 create more customized HTML5 tools:
