@@ -2,7 +2,7 @@
 
 ***[PHPPowertools](https://github.com/PHPPowertools)*** is a web application framework for PHP >= 5.4.
 
-***[PHPPowertools/DOM-Query](https://github.com/PHPPowertools/HTML5)*** is the fourth component of the ***PHPPowertools*** that has been released to the public.
+***[PHPPowertools/HTML5](https://github.com/PHPPowertools/HTML5)*** is the fourth component of the ***PHPPowertools*** that has been released to the public.
 
 This project provides an HTML5 parser for PHP. It originated as a fork of [Masterminds/html5-php](https://github.com/Masterminds/html5-php), which itself started out as a fork of [html5lib/html5lib-php](https://github.com/html5lib/html5lib-php).
 
